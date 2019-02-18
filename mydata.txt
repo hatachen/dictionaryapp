@@ -1,0 +1,1 @@
+{'love': 'obicham', 'daddy': 'taddy', 'sladuk, mili': 'honey', 'cold soup': 'tarator', 'sunday': 'nedalq', 'bread': 'hlqb', 'great': 'strakhoten', 'candy': 'bonbon', 'baby': 'bebe', 'yes': 'da', 'monday': 'ponedelnik', '': ''}
