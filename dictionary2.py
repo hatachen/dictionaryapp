@@ -2,10 +2,10 @@
 # Name:        dictionary app
 # Purpose:      self-study
 #
-# Author:      George
+# Author:      Hata
 #
 # Created:     18/10/2018
-# Copyright:   (c) George 2018
+# Copyright:   (c) Hata 2018
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 from tkinter import*
